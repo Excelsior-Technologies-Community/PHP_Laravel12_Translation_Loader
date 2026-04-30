@@ -402,4 +402,7 @@ PHP_Laravel12_Translation_Loader/
 ------------------------------------------------------------------------
 
 Your PHP_Laravel12_Translation_Loader Project is now ready!
+<<<<<<< HEAD
 
+=======
+>>>>>>> development
