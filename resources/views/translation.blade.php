@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,9 +19,11 @@
     </style>
 </head>
 
-<body class="min-h-screen bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 flex items-center justify-center p-6">
+<body
+    class="min-h-screen bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 flex items-center justify-center p-6">
 
-    <div class="bg-white/20 backdrop-blur-lg shadow-2xl rounded-3xl p-10 w-full max-w-xl text-center border border-white/30">
+    <div
+        class="bg-white/20 backdrop-blur-lg shadow-2xl rounded-3xl p-10 w-full max-w-xl text-center border border-white/30">
 
         <!-- Header -->
         <h1 class="text-4xl font-bold text-white mb-4">
@@ -35,17 +38,17 @@
         <div class="flex flex-wrap justify-center gap-4">
 
             <a href="/set-language/en"
-               class="px-6 py-3 rounded-xl bg-white text-indigo-600 font-semibold shadow-md hover:scale-105 hover:bg-indigo-100 transition duration-300">
+                class="px-6 py-3 rounded-xl bg-white text-indigo-600 font-semibold shadow-md hover:scale-105 hover:bg-indigo-100 transition duration-300">
                 🇺🇸 English
             </a>
 
             <a href="/set-language/fr"
-               class="px-6 py-3 rounded-xl bg-white text-purple-600 font-semibold shadow-md hover:scale-105 hover:bg-purple-100 transition duration-300">
+                class="px-6 py-3 rounded-xl bg-white text-purple-600 font-semibold shadow-md hover:scale-105 hover:bg-purple-100 transition duration-300">
                 🇫🇷 French
             </a>
 
             <a href="/set-language/hi"
-               class="px-6 py-3 rounded-xl bg-white text-pink-600 font-semibold shadow-md hover:scale-105 hover:bg-pink-100 transition duration-300">
+                class="px-6 py-3 rounded-xl bg-white text-pink-600 font-semibold shadow-md hover:scale-105 hover:bg-pink-100 transition duration-300">
                 🇮🇳 Hindi
             </a>
 
@@ -59,4 +62,5 @@
     </div>
 
 </body>
+
 </html>
